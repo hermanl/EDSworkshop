@@ -1,3 +1,8 @@
-#onedrive
- mountpoints:  /: https://adobe-my.sharepoint.com/:f:/r/personal/kchau_adobe_com/Documents/EdgeDelivery?csf=1&web=1&e=IA15xN
+#Ensemble onedrive
+# mountpoints:  /: https://ensemsysinc-my.sharepoint.com/:f:/r/personal/hermanl_ensemble_com/Documents/EDSworkshop?csf=1&web=1&e=oVfCAW
 
+#onedrive
+# mountpoints:  /: https://adobe-my.sharepoint.com/:f:/r/personal/kchau_adobe_com/Documents/EdgeDelivery?csf=1&web=1&e=IA15xN
+
+#Google Drive
+mountpoints:  /: https://drive.google.com/drive/folders/1rsDUnnUpdcHI7X6C808blqbfys81Xt0Z?usp=drive_link
