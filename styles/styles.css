@@ -129,12 +129,10 @@ blockquote {
   margin-bottom: 0.25em;
 }
 
-/* inline code styles */
-code {
-  font-family: var(--code-font-family);
-  letter-spacing: -0.08px;
-  line-height: 1.8;
-  color: var(--dark-spectrum-blue);
+code,
+pre {
+  font-size: var(--body-font-size-s);
+  color: #1d3ecf;
 }
 
 pre {
