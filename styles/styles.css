@@ -129,8 +129,7 @@ blockquote {
   margin-bottom: 0.25em;
 }
 
-code,
-pre {
+code {
   font-size: var(--body-font-size-s);
   color: #1d3ecf;
 }
