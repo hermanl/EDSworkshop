@@ -25,12 +25,14 @@
   }
   
   .table table thead tr {
-    border-top: 2px solid #dadada;
-    border-bottom: 2px solid #dadada;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-style: solid;
   }
   
   .table table tbody tr {
-    border-bottom: 1px solid #dadada;
+    border-bottom: 1px solid #000000;
+    border-style: solid;
   }
   
   .table table th {
@@ -60,7 +62,7 @@
   /* striped variant */
   .table.striped tbody tr:nth-child(odd) {
     background-color: var(--light-color);
-    border-style: dotted solid;
+    border-style: solid;
   
   }
   
@@ -68,4 +70,5 @@
   .table.bordered table th,
   .table.bordered table td {
     border: 10px solid #000000;
+    border-style: solid;
   }
