@@ -167,7 +167,7 @@ a:hover {
 }
 
 /* buttons */
-a.button:any-link,
+a.button:any-link:not(table a) ,
 button {
   box-sizing: border-box;
   display: inline-block;
@@ -204,7 +204,7 @@ button:disabled:hover {
   cursor: unset;
 }
 
-a.button.secondary,
+a.button.secondary:not(table a),
 button.secondary {
   background-color: unset;
   border: 2px solid currentcolor;
