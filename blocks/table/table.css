@@ -53,7 +53,7 @@
   
   /* no header variant */
   .table.no-header table tbody tr {
-    border-top: 1px solid #000000;
+    border-style: solid;
   }
   
   /* striped variant */
