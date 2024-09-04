@@ -63,5 +63,5 @@
   /* bordered variant */
   .table.bordered table th,
   .table.bordered table td {
-    border: 1px solid #dadada;
+    border: 10px solid #dadada;
   }
