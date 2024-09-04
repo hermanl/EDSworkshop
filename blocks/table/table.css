@@ -9,7 +9,7 @@
     border-collapse: collapse;
     border-color: black;
     font-size: var(--body-font-size-xs);
-    border-style: dotted solid;
+    border-style: solid;
   }
   
   @media (width >= 600px) {
@@ -25,13 +25,10 @@
   }
   
   .table table thead tr {
-    border-top: 2px solid #000000;
-    border-bottom: 2px solid #000000;
     border-style: solid;
   }
   
   .table table tbody tr {
-    border-bottom: 1px solid #000000;
     border-style: solid;
   }
   
@@ -69,6 +66,5 @@
   /* bordered variant */
   .table.bordered table th,
   .table.bordered table td {
-    border: 10px solid #000000;
     border-style: solid;
   }
