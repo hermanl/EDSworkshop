@@ -131,7 +131,8 @@ blockquote {
 
 code {
   font-size: var(--body-font-size-s);
-  color:rgb(148, 26, 26);
+  color:rgb(37, 194, 13);
+  background-color: black;
 }
 
 pre {
